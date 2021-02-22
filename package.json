@@ -1,0 +1,17 @@
+{
+  "name": "travis_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "mercy",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^8.3.0"
+  }
+}
